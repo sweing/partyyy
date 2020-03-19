@@ -5,9 +5,17 @@ A GitHub repo for my birthday party
 
 Here you find a full list of video chat rooms. If some rooms experience connection problems, please use rooms from other servers.
 
+## List
+- Room Living Room
+- Room Dancefloor (microphone muted)
+- Room Terrace
+- Room Kitchen
+- Room Corridor
+- Room Lounge
+
 ## Rules
 
-To avoid annoyances, plase follow these few simple rules:
+To avoid chaotic situations, here is a list of ideas to improve the experience for everybody:
 - Please turn down your speakers or use a headset to avoid feedback
 
 # Music playlist stream
