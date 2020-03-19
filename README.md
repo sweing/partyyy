@@ -7,14 +7,14 @@ Here you find a full list of video chat rooms. If some rooms experience connecti
 
 ## Rules
 
-Again, to avoid annoyances, plase follow these few simple rules:
+To avoid annoyances, plase follow these few simple rules:
 - Please turn down your speakers or use a headset to avoid feedback
 
 # Music playlist stream
 
 To have a dance floor experience, I set up a playlist here: https://great.dj/Stefan/n6w187/21?party=true
 
-Feel free to create a new playlist on https://great.dj. Click on "Party Mode" and share the URL. You don't have to register to to that.
+Feel free to create a new playlist on https://great.dj. Click on "Party Mode" and share the URL. You don't have to register to do that.
 
 ## Joining the dance floor
 When you enter the dance floor, just press play in the YouTube window:
