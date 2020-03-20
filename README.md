@@ -32,6 +32,8 @@ You have the possibility to chat with people through the chat window
 
 ## Guidelines
 To not have full chaos on the dance floor, please follow these few guidelines:
+- If you get tired from all the dancing, close the window or mute the video
+- Please do not press "Pause" in the YouTube window (because it will affect everybody)
 - Please do not skip or select songs in the playlist (because it will affect everybody)
 - Please add songs only to the end of the playlist
 - Please do not spam the list.
