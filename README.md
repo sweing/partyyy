@@ -40,5 +40,5 @@ To not have full chaos on the dance floor, please follow these few guidelines:
 - Please mute your microphone if you turn the volume up :)
 
 # Nino aus Wien Konzert
-Nino aus Wien gibt ab 20 Uhr ein Konzert auf [YouTub](https://www.youtube.com/watch?v=AHtjmlwQS_Y)
+Nino aus Wien holds a concert at 8 on [YouTube](https://www.youtube.com/watch?v=AHtjmlwQS_Y)
 
