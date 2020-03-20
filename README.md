@@ -6,10 +6,8 @@ A GitHub repo for my birthday party
 Here you find a full list of video chat rooms. If some rooms experience connection problems, please use rooms from other servers.
 
 ## List
-- Room Dancefloor (microphone muted)
 - Room [Terrace](https://cloud.disroot.org/index.php/call/dpiazns2)@disroot
-- Room [Kitchen](https://nextcloud.abendstille.at/index.php/call/7mn3cyom)@abendstille
-- Room Lounge
+- Room [Kitchen](https://cloud.disroot.org/call/55p5tznh)@disroot
 
 ## Rules
 
