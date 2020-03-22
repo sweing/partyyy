@@ -6,8 +6,9 @@ A GitHub repo for my birthday party
 Here you find a full list of video chat rooms. If some rooms experience connection problems, please use rooms from other servers.
 
 ## List
-- Room [Terrace](https://cloud.disroot.org/index.php/call/dpiazns2)@disroot
-- Room [Kitchen](https://cloud.disroot.org/call/55p5tznh)@disroot
+- Room [Terrace](https://cloud.disroot.org/index.php/call/dpiazns2)@disroot.nextcloud
+- Room [Kitchen](https://cloud.disroot.org/call/55p5tznh)@disroot.nextcloud
+- Room [Dancefloor](https://calls.disroot.org/Dancefloor)@disroot.jitsi
 
 ## Guidelines
 To avoid chaotic situations, here is a list of ideas to improve the experience for everybody:
@@ -38,7 +39,3 @@ To not have full chaos on the dance floor, please follow these few guidelines:
 - Please add songs only to the end of the playlist
 - Please do not spam the list.
 - Please mute your microphone if you turn the volume up :)
-
-# Nino aus Wien Konzert
-Nino aus Wien holds a concert at 8 on [YouTube](https://www.youtube.com/watch?v=AHtjmlwQS_Y)
-
